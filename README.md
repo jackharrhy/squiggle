@@ -38,10 +38,10 @@ WOAH.
 ```javascript
 Harvey.tell({
   canvas: 'squiggleCanvas',
-	height: 100,
-	container: 'squiggleContainer',
-	width: document.body.offsetWidth,
-	frameInterval: 1
+  height: 100,
+  container: 'squiggleContainer',
+  width: document.body.offsetWidth,
+  frameInterval: 1
 });
 ```
 
